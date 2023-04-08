@@ -1,6 +1,6 @@
 # CarServiceProject
 ## Description
-* This project is a Java program for a vehicle service shop. The program allows the user to perform various services like basic servicing, gear fixing, engine fixing, clutch fixing and brake fixing for different types of vehicles. Prices are calculated based on the type of vehicle and the type of repair service required.
+* This project is a Java program for a vehicle service shop. The program allows the user to perform various services like basic servicing, gear fixing, engine fixing, clutch fixing and brake fixing for different types of vehicles. Prices are calculated based on the type of vehicle and the type of repair service required and Admin has the access to add the new vehicles and corresponding services where admin has to login to make changes.
 
 ## Getting Started
 ### Prerequisites
@@ -24,10 +24,13 @@
 * The admin can add cars to the system and specify the services available for each car, along with their corresponding prices. This allows for easy management of multiple vehicles and ensures that customers can easily view and select the desired services
 
 # Working
-* This project involves a user-input system where customers can specify the make and model of their car as well as the types of services they require. The system then generates an itemized bill for all services rendered, including any applicable discounts or free services.
-
-* The objective of this project is to streamline the process of obtaining car maintenance services by offering a comprehensive and user-friendly platform. The user's inputs allow for a personalized experience that caters to the specific needs of each customer. This system provides transparency and clarity to the customer, as they are aware of the services they are being charged for and can monitor any additional costs incurred.
-
-* Furthermore, this system is designed to provide value to the customer by offering discounts or free services based on their needs. This incentivizes customers to continue using the platform, promoting customer retention and loyalty. This project is built with the aim of providing an efficient and satisfying experience to both the customer and the service provider.
-
-* In summary, this project provides a streamlined and comprehensive platform for obtaining car maintenance services, with an emphasis on user input, transparency, and value-added services.
+* A Java program designed for a vehicle service shop.
+* Offers a range of services such as basic servicing, gear, engine, clutch, and brake repair for diverse types of vehicles.
+* Prices are calculated based on the type of vehicle and the nature of repairs needed.
+* Enables the user to perform various services and repairs for different types of vehicles.
+* Provides a user-friendly interface for easy navigation and use.
+* Allows the admin to log in and add new vehicles and corresponding services with ease.
+* Ensures efficient management of the shop's repair services.
+* Enables the shop to offer a wider range of services to its customers.
+* Provides accurate and timely cost estimates for repairs.
+* Helps the shop to attract and retain customers by offering high-quality repair services.
